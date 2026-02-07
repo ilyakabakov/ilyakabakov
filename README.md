@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilyakabakov
 - 👀 I’m interested in Web, Bots and AI, ML
-- 🌱 I’m currently using Python 3, Django, Aiogram from v2.25, asyncio, aiosqlite, PostgreSQL, SQLite, etc
+- 🌱 I’m currently using Python, Django, Aiogram, Docker, etc
 - 📫 For questions ikabakov90@list.ru
 - 📨 Telegram: @i_kabakov
